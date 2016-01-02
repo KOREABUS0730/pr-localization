@@ -38,56 +38,56 @@ PR_TIP_19   기관총과 거치식 장비를 사용할 때,
 시점을 변경하면 (기본키:"C") 사격이 용이해집니다.
 PR_TIP_20   가능한 적에게 노출되지 말아야합니다. 
 숨어있으면 적이 추적할 수 없고, 총격전에서 주도권을 가질 수가 있다.
-PR_TIP_21   Killing the enemy is only one small aspect of the battlefield, always keep the team's primary objective in mind.
-PR_TIP_22   Keep your spacing! When bunched up, one machine gun, grenade or even worse one booby trap can decimate the entire squad.
+PR_TIP_21   적군을 사살하는 것은 전투의 작은 부분을 차지할 뿐입니다. 항상 팀의 목표를 염두에 두십시오..
+PR_TIP_22   항상 간격을 유지하십시오. 만약 당신이 적군의 기관총이나 부비트랩, 수류탄에 걸려 들었을때 그것이 당신의 모든 분대원을 무력화 시킬 수 있습니다.
 PR_TIP_23   Mortars and timed Area attack weapons (JDAM, Artillery) are excellent support powers that can clear and suppress enemy positions so your team can assault them. It also provides a thick dust plume that your forces can utilize to traverse the battelfield.
 PR_TIP_24   Extraction/Insertion points should provide cover to both the squad and the vehicle. Hilltops are not ideal for this purpose.
-PR_TIP_25   Joining a specialised squad (such as a transport chopper squad or armor squad) means that you should be crewing/supporting those vehicles, not going off fighting your own wars.
-PR_TIP_26   If you cannot kill it, leave it alone or it will kill you.
+PR_TIP_25   만약 당신이 장갑차와 탱크, 수송 분대와 같은 특수 분대에 가입하였다면, 그것은 당신이 차량을 이용하여 팀을 지원한다는 뜻입니다. 당신 혼자만의 전투를 즐기지 마십시오.
+PR_TIP_26   당신이 그것을 사살할 수 없을 경우, 그냥 떠나십시오. 그렇지 않으면 그것이 당신을 죽일 것 입니다..
 PR_TIP_27   Use grenades, rifle grenades or rockets to clear out enemy positions such as bunkers/houses BEFORE moving inside to reduce friendly casualties.
 PR_TIP_28   Underbarrel Grenade Launchers and most missile systems have a minimum arming distance of aproximately 30-50m before arming.
-PR_TIP_29   Spot first, shoot later. If you spot a possible contact, inform the squad what you've sighted. Identify what it is, the range to the target and the bearing on your compass. Also state whether the target has spotted you or not.
-PR_TIP_30   Flying aircraft in Project Reality is not for the faint of heart. Do not attempt to fly a jet or helicopter in a populated server without getting some practice flight time in first. Try a local or PRSP Co-Op Server to get a handle on flying.
-PR_TIP_31   Always apologize for Friendly Fire. Accidents do happen in the best of circumstances and saying sorry is just good manners.
+PR_TIP_29   적군을 발견할 경우 먼저 보고한 후 발포하십시오. If you spot a possible contact, inform the squad what you've sighted. Identify what it is, the range to the target and the bearing on your compass. Also state whether the target has spotted you or not.
+PR_TIP_30   연습 없이 전투기나 헬리콥터를 조종하지 마십시오. 그것들은 마음대로 조종하라고 있는 장비가 아닙니다. 온라인 서버에서 그것들을 조종하기 전 협동 작전 서버 혹은 개인 서버에서 그것들의 조종법을 익힌 후 온라인 서버에서 사용하십시오..
+PR_TIP_31   아군 사격에 대해서 항상 사과하십시오. 실수했을 경우 사과하는 것이 가장 놓은 매너입니다..
 PR_TIP_32   Always stay clear of a friendly vehicle's rear area, even during repairs. If the driver needs to reverse in a hurry you might become an unintended victim of their hasty retreat.
-PR_TIP_33   When leading a squad, don't be afraid to tell individual members of the squad what you need them to do in order to accomplish your objectives.
+PR_TIP_33   당신이 분대를 지휘할 때, 당신 분대의 목표를 달성하기 위해 필요한 것을 분대원에게 명령하는 것을 두려워하지 마십시오.
 PR_TIP_34   When moving across an obstacle in your path such as a road or river, ensure there is always someone covering the squad as they traverse the obstacle.
-PR_TIP_35   When creating a squad, giving it the appropriate name for what you will be doing is appreciated by your team commander as well as other squad leaders. Examples: INF, MECINF, ARMOR, AIR, etc.
-PR_TIP_36   Avoid grabbing your favorite marksman or sniper kit; helicopter or nearest vehicle needlessly. Check first with your Squad Leader.
-PR_TIP_37   Mortars require a fire mission to be called by the forward observer before they can be operated. The fire mission marker will be a mortar crew's intended target of which they will base their fire calculations off.
+PR_TIP_35   만약 당신이 분대를 생성할 때, 분대 이름에 당신의 분대가 무슨 역할을 수행할 지 설명해 놓으십시오. 지휘관의 지휘가 수월해집니다. 예시: INF, MECINF, ARMOR, AIR, TRANS 등등.
+PR_TIP_36   당신이 좋아하는 저격수 혹은 정찰병 키트를 줍기 전에 불필요하게 가까운 헬리콥터나 차량을 조심하고, 분대장에게 반드시 허락을 받으십시오.
+PR_TIP_37   박격포 진지는 전진 기지(FOB)에서 먼저 사격 요청을 해야 발사할 수 있습니다. 첫번째 발사 요청 지역이 지도에 마커로 표시되면 그것들을 분대장의 지시에 따라 날려버리면 됩니다.
 PR_TIP_38   Using automatic or burst fire with any small arm is best left for close quarters combat. Use semi-automatic for targets that are greater than 50m away.
 PR_TIP_39   Breachers, Scouts and Point-men are kits which role aids the squad in scaling walls, breaching obstacles and light asset demolition.
-PR_TIP_40   As a squad leader do not be afraid to make decisions and take action! If an attack isn't working, find another way around.
+PR_TIP_40   당신이 분대장일 경우 작전을 전개하는 것을 두려워하지 마십시오! 만약 공격이 실패할 경우, 좌절하지 말고 다른 길을 찾으십시오.
 PR_TIP_41   Constantly scanning your surroundings is key on the battlefield. Be aware that when engaging the enemy you'll inevitibly be sucked into a kind of 'tunnel vision' that you need to break out of to maintain your situational awareness.
-PR_TIP_42   Check your map when necessary. Note the locations of friendly squads/troops, and objectives that are undefended before moving on.
-PR_TIP_43   Make very sure of your target before opening fire. Study the silhouettes, weapons and camouflage patterns of your enemy to help in recognition.
-PR_TIP_44   Rambo did not have to worry about hitting his targets on the run - You do. Stop moving and adopt a crouching or prone position to greatly increase the chance of hitting your target.
-PR_TIP_45   Smoke is best deployed between you and the enemy. Some Vehicles also have smoke grenade launchers that can disperse smoke over a large area almost instantly.
+PR_TIP_42   당신의 지도를 자주 확인하십시오. 아군 분대 혹은 보병의 위치를 기억하고, 이동하기 전 목표가 무방비 상태라는 것을 기억하십시오.
+PR_TIP_43   사격하기 전 피아를 확실히 구분하십시오. 적군의 실루엣이나 위장 무늬, 무기를 기억한다면 당신의 피아 식별에 큰 도움이 될 것 입니다.
+PR_TIP_44   람보는 뛰면서 자신의 목표를 공격하는 것을 두려워하지 않습니다.- 당신도 그러십시오. 위치를 고수하며 앉아서 사격한다면 당신의 목표를 타격하는 데 큰 도움이 됩니다.
+PR_TIP_45   연막은 당신과 적군 사이에 배치할 수 있는 가장 훌륭한 방어막입니다. 몇몇 차량은 연막탄 발사기를 장치하여 넓은 지역을 가릴 수 있습니다..
 PR_TIP_46   Creating a squad dedicated to logistics and construction is a highly valuable asset for any Commander. Use this squad to shuttle troops and supplies to the frontline and construct both defensive and offensive forward outposts.
-PR_TIP_47   The problem with the easy way in is that it has already been booby trapped.
+PR_TIP_47   쉬운 길엔 항상 부비트랩이 설치되어 있다는 것은 당신에게 있어 아주 큰 문제입니다.
 PR_TIP_48   Ideally the assaulting team in a flanking manoeuvre should not be seen by the defending enemy during their approach. Make good use of contours in the land, vegetation, and buildings and try to use smoke cover to your advantage.
 PR_TIP_49   Call retreats often and early. Never, ever, try to force an attack. If it looks like it isn't going to work, pull your men out of there immediately and try a different plan. It can also confuse the enemy if you do it right.
-PR_TIP_50   Light Machine Guns (LMGs), Medium Machine Guns (MMGs/GPMGs) Designated Marksman Rifles (DMRs) and Sniper Rifles are best used from a stationary position in deployed mode.
-PR_TIP_51   Most medium to heavy vehicles and aircraft have access to thermal imaging (FLIR) capabilities. Use this to quickly identify potential targets and to aid in gathering intelligence for your team.
+PR_TIP_50   경기관총 (LMGs), 중기관총 (MMGs/GPMGs), 소총 (DMRs) 과 저격총은 거치했을 때 가장 확실한 능력을 발휘합니다.
+PR_TIP_51   많은 중형 차량과 항공기엔 적외선 탐지 장비(FLIR)가 장착되어 있습니다. 이것을 사용하여 정찰 정보를 빠르게 수집하거나 적군을 빠르게 타격하여 아군을 지원하십시오.
 PR_TIP_52   Combat Engineers are key in bridge and asset demolition, setting up perimeter defenses, laying mines and booby traps as well as defusing them.
 PR_TIP_53   Keep below ridge-lines when moving over open ground. Your silhouette against the skyline will make you an easy target.
 PR_TIP_54   Some Designated Marksman Rifles have different magnification settings that are dependant on which mode (Undeployed/Deployed) you are in.
 PR_TIP_55   As a Crewman remember what your high priority threats will be: enemy Armor, mobile AT vehicles, AT Infantry in close quarters, and aircraft. These should be engaged on your own terms or avoided if possible.
-PR_TIP_56   All soldiers are issued a field dressing to help stop the bleeding of minor wounds. If you were badly wounded then seek out a combat medic after applying the dressing.
+PR_TIP_56   모든 병사들은 필드 드레싱을 가지고 있으며, 이것은 경미한 부상으로 인해 발생하는 출혈만을 막을 수 있습니다. 만약 당신이 심각한 부상을 당했다면 의무병에게 도움을 요청하십시오.
 PR_TIP_57   Infantry and Forward Outpost defence emplacements can rearm from ammo bags carried by Riflemen, who in turn can be resupplied by supply crates deployed by Trucks, Jeeps and APCs. Vehicles can rearm from the Vehicle Supply Depot located in your main base or primary landing site.
-PR_TIP_58   Light Anti-Tank weapons such as the M136 AT4, M72 LAW, RPG-7, or the RPG26 are not effective against Main Battle Tanks. Use the Heavy Anti-Tank kit for that role. When engaging armor, aim for the weaker tank armor located at the rear or top of the MBT, or its tracks.
-PR_TIP_59   When you can see the enemy, the enemy can see you.
+PR_TIP_58   M136 AT4, M72 LAW, RPG-7, or the RPG26과 같은 소형 대전차 장비로는 주력 전차를 저지할 수 없습니다. 중형 대전차 장비를 사용하여 적군의 기갑 장비와 교전할 땐 궤도 혹은 엔진, 포탑과 같은 장갑이 약한 곳을 노리십시오
+PR_TIP_59   당신이 적을 볼수 있을때 적도 당신을 볼수 있습니다.
 PR_TIP_60   Anti-Tank and Anti-Air weapon systems take a considerable time to setup and deploy. During this process, you cannot fire the weapon so plan ahead when getting ready to fire.
-PR_TIP_61   IEDs, Landmines, C4 and Claymores are excellent area denial weapons and also great for ambushes. However be mindful that they cannot tell the difference between friend and foe, so warn friendlies when setting up these powerful explosives using the commo rose.
-PR_TIP_62   Don't get upset if a pilot doesn't agree to drop you somewhere. It is the pilot's helicopter and he will do what is necessary to keep it alive.
-PR_TIP_63   To use the kit request system you must be in a squad first and then use the squad commo rose (default key: "T") to request it.
-PR_TIP_64   All armored and some specialist role vehicles require a Crewman kit to operate so make sure you have one if you intend to operate them.
-PR_TIP_65   All aircraft require a Pilot kit to operate, so make sure you have one if you intend to fly. In addition it is the only kit that is issued a parachute for emergencies.
-PR_TIP_66   Remember, tracers work both ways. They help you guide your bullets to your target but they also help the enemies guide themselves to you. Unconventional factions, pistols, marksman rifles and sniper rifles do not employ tracer ammunition.
-PR_TIP_67   Parachutes require a minimum deploy distance in the air, approximately 300 meters. Be sure to pull your parachute with plenty of space between you and the ground or your parachute will not deploy properly and you will not survive to tell the tale.
-PR_TIP_68   Most armored vehicles have different types of rounds available. Use the switch weapon key (default key: "F") to switch between the different rounds.
+PR_TIP_61   IEDs, Landmines, C4 와 클레이모어는 훌륭한 지역 방어 무기입니다. 하지만 이것들은 적군과 아군을 구별할 수 없습니다. 따라서 아군이 위력적인 폭발을 맛보기 전에 이것들에 대해 경고하십시오.
+PR_TIP_62   파일럿이 당신이 원하는 곳에 내려주지 않았다고 성질내지 마십시오. 그곳은 자신과 당신을 모두 살리기 위해 선택한 착륙 지점입니다
+PR_TIP_63   당신이 킷을 요청하기 위해선 먼저 분대에 가입한 후 아군의 보급 물자 근처에 있어야 합니다. (기본키: "T") 를 눌러 요청하십시오.
+PR_TIP_64   모든 기갑 차량과 몇개의 중형 공격 차량은 기갑병(Crewman)만이 조종할 수 있도록 되어 있습니다. 그것들을 조종하기 전 항상 당신의 병과를 확인하십시오..
+PR_TIP_65   모든 항공기는 파일럿만이 조종할 수 있습니다. 하늘을 날고 싶으면 조종사가 되십시오. 또한 이 병과만이 긴급상황을 대비하여 낙하산을 보유하고 있습니다.
+PR_TIP_66   기억하십시오, 추격자는 항상 같은 방향으로 움직입니다. 그들은 당신의 총알이 표적에 맞을 수 있게 해주지만 반대로 적군의 총알을 당신에게 유도하기도 합니다. 반란군과 권총, 소총과 저격총만을 소지한 병과는 추격당하기  쉽습니다.
+PR_TIP_67   낙하산이 작동되기 위해선 최저 고도인 300미터를 만족해야 합니다. 땅에 닿기 전에 적당한 위치에서 낙하산을 작동시키지 않으면 당신은 떨어져 죽을 것 입니다.
+PR_TIP_68   많은 기갑 차량은 여러가지 구경 혹은 종류의 무기를 장착하고 있습니다. 무기 변경 버튼을 눌러 (기본키y: "F") 무기의 구경을 바꾸십시오.
 PR_TIP_69   IEDs and Anti-Personnel Mines have equipped two separate chains of detonation. Use this system to setup more complex ambushes with two stages of explosives.
-PR_TIP_70   All air vehicles have an engine startup time before they are capable of getting airborne. Attempting to take off before the engines are fully operational will endanger the aircraft and your fellow soldiers in and around it.
+PR_TIP_70   모든 항공기는 하늘을 누비기 전 엔진 예열 시간을 거쳐야 합니다. 엔진 예열 도중 엔진 출력을 최고로 높인다면 당신의 항공기에 탑승한 병사와 당신 모두가 위험해질 수 있습니다.
 PR_TIP_71   The Designated Marksman kit is used to provide accurate, long-range fire for your squad. Stay close to your fellow squad members as they are relying on you to provide that much needed support.
 PR_TIP_72   Scouting squads provide intel for the commander and your team about enemy troop movements. Snipers should always operate with an accompanying Spotter to provide security, maneuverability and an additional pair of eyes.
 PR_TIP_73   If your vehicle has become disabled and you're unable to move or fire, you will need to call for a repair crew to repair the damage before you can effectively operate the vehicle again.
