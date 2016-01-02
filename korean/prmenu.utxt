@@ -1,18 +1,18 @@
 MENU_URL                                                   realitymod
 MENU_soldier                                               병사:
-BUTTON_MAIN_coop                                           CO-OPERATIVE
-BUTTON_MAIN_deployment                                     DEPLOYMENT
-BUTTON_MAIN_barracks                                       BARRACKS
-BUTTON_MAIN_options                                        OPTIONS
-BUTTON_MAIN_exit                                           EXIT
-BUTTON_MAIN_back                                           BACK
-BUTTON_MAIN_disconnect                                     DISCONNECT
-BUTTON_DEPLOYMENT_deploy                                   DEPLOY
-BUTTON_DEPLOYMENT_autoDeploy                               AUTO DELPOY
-BUTTON_DEPLOYMENT_internet                                 JOIN INTERNET
-BUTTON_DEPLOYMENT_local                                    JOIN LOCAL
-BUTTON_DEPLOYMENT_create                                   CREATE LOCAL
-BUTTON_DEPLOYMENT_favorite                                 FAVORITES
+BUTTON_MAIN_coop                                           합동 작전
+BUTTON_MAIN_deployment                                     전투 배치
+BUTTON_MAIN_barracks                                       막사
+BUTTON_MAIN_options                                        설정S
+BUTTON_MAIN_exit                                           게임 종료
+BUTTON_MAIN_back                                           뒤로
+BUTTON_MAIN_disconnect                                     연결 끊기
+BUTTON_DEPLOYMENT_deploy                                   게임 입장
+BUTTON_DEPLOYMENT_autoDeploy                               자동 게임 입장
+BUTTON_DEPLOYMENT_internet                                 온라인 게임 참가
+BUTTON_DEPLOYMENT_local                                    LAN 게임 참가
+BUTTON_DEPLOYMENT_create                                   LAN 게임 생성
+BUTTON_DEPLOYMENT_favorite                                 
 BUTTON_DEPLOYMENT_getserverlist                            UPDATE LIST
 BUTTON_DEPLOYMENT_stopupdate                               STOP UPDATE
 BUTTON_DEPLOYMENT_connecttoip                              JOIN IP
